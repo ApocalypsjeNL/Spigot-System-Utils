@@ -1,0 +1,6 @@
+name: SysUtils
+version: ${project.version}
+main: dev.niekv.sysutils.bungee.BungeePlugin
+
+author: Niek Vincent
+description: Network infrastructure manager

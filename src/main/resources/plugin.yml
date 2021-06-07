@@ -1,0 +1,8 @@
+name: SysUtils
+version: ${project.version}
+main: dev.niekv.sysutils.spigot.SpigotPlugin
+
+author: Niek Vincent
+description: Network infrastructure manager
+
+api-version: "1.14"
